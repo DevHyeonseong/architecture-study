@@ -41,4 +41,6 @@ UI(View)와 비즈니스 로직(Model)을 분리하고, 서로 간에 상호작�
 
 ## 6. 참고
 
-[안드로이드 아키텍처 패턴 - MVP](https://velog.io/@jojo_devstory/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%A8%ED%84%B4-MVP%EA%B0%80-%EB%AD%98%EA%B9%8C)
+[안드로이드 아키텍처 패턴 - MVP란?](https://velog.io/@jojo_devstory/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%A8%ED%84%B4-MVP%EA%B0%80-%EB%AD%98%EA%B9%8C)
+
+[안드로이드에서 MVP 하는법](https://medium.com/@itsnothingg/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%97%90%EC%84%9C-mvp-%ED%95%98%EB%8A%94-%EB%B2%95-cc038a6abfc7)
